@@ -1,5 +1,5 @@
 # Homework 1
-
+Ethan Glickman
 This homework will help you get familiar with git and github, tools you'll be using later on in this class and your career. At the end of this exercise, you should have created two branches, created a merge conflict, resolved it, and then pushed the results to your github repository. 
 
 YOU SHOULD USE YOUR COMMAND LINE. Do not use the website, GUI, or any other Git interface. This is for your benefit!
