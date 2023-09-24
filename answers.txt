@@ -1,0 +1,5 @@
+What is the difference between a merge and a rebase?
+A merge is when a forked history is put back together again
+while keeping that history in tact while a rebase rewrites
+the project history by creating brand new commits for each 
+commit in the original branch.
